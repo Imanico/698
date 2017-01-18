@@ -1,3 +1,3 @@
-# this my first web page
-## I am Imani
+# Imani Cooper-Mkandawire
+This be
 [Digital humanties week 1](Digitalintro)
