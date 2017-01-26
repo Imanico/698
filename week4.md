@@ -1,4 +1,4 @@
-##Typography & Design
+## Typography & Design
 Ellen Lupton’s Thinking with Type is insightful,artful and cheeky. 
 The combination of historical background on typography, “how to” attitude  and the examples embedded within 
 the visual/reading experience Thinking with Type fordges a genre space to discuss design-techno-visual history, 
